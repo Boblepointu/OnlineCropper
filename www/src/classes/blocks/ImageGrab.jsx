@@ -121,12 +121,6 @@ class ImageGrab extends React.Component {
             acceptedTypes="image/*"
             onDrop={this._onDrop.bind(this)}
           />
-          <Checkbox
-            label="Compute on server"
-            defaultChecked={true}
-            style={styles.checkbox}
-            onCheck={(event, isChecked) => {console.log(isChecked);}}
-          />
           <RaisedButton
             label="Crop files"
             primary={true}
