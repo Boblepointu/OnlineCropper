@@ -1,0 +1,88 @@
+
+.imageContainer{
+  width: 100%;
+  min-height: 220px;
+  max-height: 220px;
+}
+.deleteButton{
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 30px !important;
+  height: 30px;
+  z-index: 0;
+  min-width: inherit !important;
+  cursor: pointer;
+  z-index: 10;
+}
+.deleteButton:hover{
+  color: red;
+}
+.deleteButton:active{
+  color: green;
+}
+.deleteButton > svg{
+  height: 100%;
+  width: 30px !important;
+}
+.croppedState{
+  position: absolute;
+  top: 0;
+  right: 30px;
+  width: 30px !important;
+  height: 30px;
+  min-width: inherit !important;
+  cursor: pointer;
+  z-index: 10;
+  color: green;
+}
+.sentState{
+  position: absolute;
+  top: 0;
+  right: 30x;
+  width: 30px !important;
+  height: 30px;
+  min-width: inherit !important;
+  cursor: pointer;
+  z-index: 10;
+  color: green;
+}
+.uploadState{
+  position: absolute;
+  top: 0;
+  right: 60px;
+  width: 30px !important;
+  height: 30px;
+  min-width: inherit !important;
+  cursor: pointer;
+  z-index: 10;
+  color: blue;
+}
+
+.downloadState{
+  position: absolute;
+  top: 0;
+  right: 60px;
+  width: 30px !important;
+  height: 30px;
+  min-width: inherit !important;
+  cursor: pointer;
+  z-index: 10;
+  color: blue;
+}
+
+.image{
+  max-width: 100%;
+  max-height: 220px;
+  min-height: 220px;
+}
+
+.block{
+  padding: 1%;
+  min-height: 220px;
+  max-height: 220px;
+  width: 20%;
+  display: inline-block;
+  min-width: 200px;
+  cursor: pointer;
+}

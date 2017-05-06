@@ -1,0 +1,8 @@
+.dialogMui{
+  width: 90%;
+  max-width: 100vw !important;
+}
+.dialogMui>div>div{
+  width: 90%;
+  max-width: 100vw !important;
+}

@@ -1,0 +1,13 @@
+.block{
+  max-height: 80px;
+  margin-top: 1vh;
+  max-width: 250;
+  text-align: center;
+}
+.subBlock{
+  width: 12.5em;
+  text-align: left;
+  margin: 0 auto;
+}
+.checkbox{
+}

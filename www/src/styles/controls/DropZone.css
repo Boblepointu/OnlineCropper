@@ -1,0 +1,27 @@
+.dropzone{
+  cursor: pointer;
+  margin: 1vh 1vh 1vh 1vh;
+  width: 20vw;
+  height: 12vh;
+  border-style: dotted;
+  line-height: 4vh;
+  min-width: 125px;
+}
+.dropzoneText{
+  width: 20vw;
+  height: 4vh;
+  margin: 0 auto;
+  line-height: 4vh;
+}
+.dropzoneBg{
+  width: 20vw;
+  height: 6vh;
+  margin: 0 auto;
+  line-height: 6vh;
+}
+.dropzoneBg>svg{
+  height: 100%;
+}
+.dropzoneContainer{
+
+}

@@ -1,0 +1,14 @@
+.block{
+}
+.subBlock{
+}
+.arrow{
+   font-size: 3em;
+   cursor: pointer;
+}
+.arrow:hover{
+  color: blue;
+}
+.arrow:active{
+  color: green;
+}

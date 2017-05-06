@@ -1,0 +1,11 @@
+.container{
+  background-color: transparent;
+  width: 100%;
+  height: 100vh;
+}
+.container > .background, .container > svg{
+  width: 100%;
+}
+.container center{
+  width: 100%;
+}
