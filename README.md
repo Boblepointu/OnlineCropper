@@ -31,6 +31,8 @@ One dependencies are resolved, you can launch one of the few project `npm comman
 - `npm run start` => Will run `main.js`
 - `npm run build` => Will launch webpack build and exit
 
+Once started, you'll be able to open up `http://127.0.0.1:5000`.
+
 ## Todo
 
 - Build 'harder' type structures for events data;
