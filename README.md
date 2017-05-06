@@ -20,6 +20,10 @@ git clone https://github.com/Boblepointu/OnlineCropper.git && cd OnlineCropper
 sudo apt-get install -qy npm && npm i -g n && n latest && npm i
 ```
 
+## Configuration
+
+You can edit the `./config.json` file to change the web server port.
+
 ## Running
 
 One dependencies are resolved, you can launch one of the few project `npm commands` :
