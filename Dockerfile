@@ -1,7 +1,7 @@
 FROM debian:latest
 
 RUN apt-get update
-RUN apt-get install -qy npm git
+RUN apt-get install -qy npm git curl wget
 RUN npm i -g n
 RUN n latest
 RUN mkdir /app
