@@ -2,6 +2,7 @@
   "name": "onlinecropper",
   "version": "0.0.1",
   "description": "A tool to quickly crop image files online.",
+  "repository": "https://github.com/Boblepointu/OnlineCropper.git",
   "main": "main.js",
   "scripts": {
     "test": "node test.js",
