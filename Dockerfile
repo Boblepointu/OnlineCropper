@@ -8,4 +8,5 @@ RUN mkdir /app
 WORKDIR /app
 RUN git clone https://github.com/Boblepointu/OnlineCropper.git .
 RUN npm i
+EXPOSE 5000
 CMD node main.js
