@@ -30,3 +30,12 @@ One dependencies are resolved, you can launch one of the few project `npm comman
 - `npm run start-dev` => Will launch webpack in watch mode, and run `main.js`.
 - `npm run start` => Will run `main.js`
 - `npm run build` => Will launch webpack build and exit
+
+## Todo
+
+- Build 'harder' type structures for events data;
+- Add React class more documentation;
+- Add a log engine;
+- Manage errors on file upload;
+- Hardening of server (file uploads might be at risk);
+- [...]
