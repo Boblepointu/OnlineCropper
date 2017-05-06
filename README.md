@@ -5,7 +5,7 @@ A tool to quickly crop image files.
 
 OnlineCropper server should be platform independent. Currently it has been tested on :
 -  `Linux Workstation 3.16.0-4-amd64 #1 SMP Debian 3.16.36-1+deb8u2 (2016-10-19) x86_64 GNU/Linux`
--- With `NPM v4.2.0` and `Node v7.10.0`
+  - With `NPM v4.2.0` and `Node v7.10.0`
 
 ## Dependencies
 
