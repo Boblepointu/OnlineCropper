@@ -21,7 +21,7 @@
     "react": "^15.5.4",
     "rev-hash": "^1.0.0",
     "underscore": "^1.8.3",
-    "webpack": "^2.5.0"
+    "webpack": "^5.74.0"
   },
   "devDependencies": {
     "axios": "^0.16.1",
@@ -37,7 +37,7 @@
     "react-image-crop": "^2.0.3",
     "react-tap-event-plugin": "^2.0.1",
     "style-loader": "^0.17.0",
-    "svg-inline-loader": "^0.7.1",
-    "webpack-cli": "^3.3.7"
+    "svg-inline-loader": "^0.8.2",
+    "webpack-cli": "^3.3.12"
   }
 }
